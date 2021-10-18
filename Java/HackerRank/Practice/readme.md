@@ -1,5 +1,5 @@
 
-|||Solution|
+||HackerRank Java IntroDuction|Solution|
 | :-: | :-: | :-: |
 | 01 | Welcome to Java! |[WelcomeToJava](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/WelcomeToJava) |
 | 02 | Java Stdin and Stdout I | [JavaStdinandStdout](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20Stdin%20and%20Stdout%20I) |
