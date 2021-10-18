@@ -8,7 +8,7 @@
 | 05 |Java Output Formatting|[Java_Output_Formatting](https://github.com/rsnirob/Programming-Language/tree/main/Java/HackerRank/Practice)|
 | 06 |Java Loops I|[JavaLoopsI](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20Loops%20I)|
 | 07 |Java Loops II|[JavaLoopsII](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20Loops%20II)|
-| 08 |Java Datatypes|[]()|
+| 08 |Java Datatypes|[JavaDatatypes](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20Datatypes)|
 |  ||[]()|
 
 
