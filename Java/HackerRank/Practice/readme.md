@@ -7,6 +7,7 @@
 | 04 | Java Stdin and Stdout II | [JavaStdinandStdoutII](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20Stdin%20and%20Stdout%20II) |
 |||[]()|
 |||[]()|
-|||[]()||||[]()|
+|||[]()|
+|||[]()|
 
 
