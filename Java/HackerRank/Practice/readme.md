@@ -7,7 +7,7 @@
 | 04 | Java Stdin and Stdout II | [JavaStdinandStdoutII](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20Stdin%20and%20Stdout%20II) |
 | 05 |Java Output Formatting|[Java_Output_Formatting](https://github.com/rsnirob/Programming-Language/tree/main/Java/HackerRank/Practice)|
 | 06 |Java Loops I|[JavaLoopsI](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20Loops%20I)|
-| 07 ||[]()|
+| 07 |Java Loops II|[JavaLoopsII](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20Loops%20II)|
 | 08 ||[]()|
 |  ||[]()|
 
