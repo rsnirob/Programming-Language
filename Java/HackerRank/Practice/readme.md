@@ -1,5 +1,5 @@
 
-|-|-|-|
+||||
 | :---: | :-: | :-: |
 | 01 | Welcome to Java! | |
 | 02 | Problem | Solution |
