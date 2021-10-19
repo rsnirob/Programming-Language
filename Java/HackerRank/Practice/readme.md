@@ -9,6 +9,6 @@
 | 06 |[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true)|[JavaLoopsI](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20Loops%20I)|
 | 07 |[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true)|[JavaLoopsII](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20Loops%20II)|
 | 08 |[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true)|[JavaDatatypes](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20Datatypes)|
-|  ||[]()|
+| 09 |Java End-of-file|[JavaEndoffile](https://github.com/rsnirob/Programming-Language/blob/main/Java/HackerRank/Practice/Java%20End-of-file)|
 
 
